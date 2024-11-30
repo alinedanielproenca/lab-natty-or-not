@@ -1,5 +1,5 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 o salmo 23 nos ensina a confiar em Deus
